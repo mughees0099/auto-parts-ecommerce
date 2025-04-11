@@ -230,7 +230,7 @@ export default function Home() {
               </Button>
               <Button
                 variant="outline"
-                className="flex-1 border-white text-white hover:bg-white/10"
+                className="flex-1 border-white text-black hover:bg-white/10"
               >
                 Register
               </Button>
